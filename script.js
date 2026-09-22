@@ -164,7 +164,14 @@ const OTHER_SURGERIES = [
     key: 'parpados',
     label: 'Párpados',
     description: 'Blefaroplastia: rejuvenece la mirada eliminando el exceso de piel y bolsas en párpados superiores e inferiores.',
-    cases: []
+    cases: [
+      {
+        label: 'Caso 1',
+        angles: [
+          { label: 'Frente', src: 'assets/img/before-after/parpados-caso1-frente.jpg', ratio: 2 }
+        ]
+      }
+    ]
   },
   {
     key: 'mamas',
@@ -177,6 +184,13 @@ const OTHER_SURGERIES = [
           { label: 'Frente', src: 'assets/img/before-after/mamas-caso1-frente.jpg', ratio: 0.5 },
           { label: '3/4', src: 'assets/img/before-after/mamas-caso1-tres-cuartos.jpg', ratio: 0.5 },
           { label: 'Perfil', src: 'assets/img/before-after/mamas-caso1-perfil.jpg', ratio: 0.5 }
+        ]
+      },
+      {
+        label: 'Caso 2',
+        angles: [
+          { label: 'Frente', src: 'assets/img/before-after/mamas-caso2-frente.jpg', ratio: 0.8707 },
+          { label: 'Perfil', src: 'assets/img/before-after/mamas-caso2-perfil.jpg', ratio: 0.9653 }
         ]
       }
     ]
