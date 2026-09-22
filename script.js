@@ -36,7 +36,9 @@ const CASES = [
   {
     label: 'Caso 1',
     angles: [
-      { label: 'Frente', src: 'assets/img/before-after/caso1-frente.jpg', ratio: 0.7565 }
+      { label: 'Frente', src: 'assets/img/before-after/caso1-frente.jpg', ratio: 0.7565 },
+      { label: '3/4', src: 'assets/img/before-after/caso1-tres-cuartos.jpg', ratio: 0.7565 },
+      { label: 'Perfil', src: 'assets/img/before-after/caso1-perfil.jpg', ratio: 0.7565 }
     ]
   },
   {
