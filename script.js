@@ -170,7 +170,16 @@ const OTHER_SURGERIES = [
     key: 'mamas',
     label: 'Mamas',
     description: 'Aumento, reducción o lifting mamario, adaptado a la anatomía y objetivo de cada paciente.',
-    cases: []
+    cases: [
+      {
+        label: 'Caso 1',
+        angles: [
+          { label: 'Frente', src: 'assets/img/before-after/mamas-caso1-frente.jpg', ratio: 0.5 },
+          { label: '3/4', src: 'assets/img/before-after/mamas-caso1-tres-cuartos.jpg', ratio: 0.5 },
+          { label: 'Perfil', src: 'assets/img/before-after/mamas-caso1-perfil.jpg', ratio: 0.5 }
+        ]
+      }
+    ]
   },
   {
     key: 'lipo',
