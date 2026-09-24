@@ -163,6 +163,13 @@ resultadosGallery.setCases([
       { label: '3/4', src: 'assets/img/before-after/caso4-tres-cuartos.jpg', ratio: 0.5 },
       { label: 'Perfil', src: 'assets/img/before-after/caso4-perfil.jpg', ratio: 0.5 }
     ]
+  },
+  {
+    label: 'Caso 5',
+    angles: [
+      { label: 'Frente', src: 'assets/img/before-after/caso5-frente.jpg', ratio: 0.75 },
+      { label: 'Perfil', src: 'assets/img/before-after/caso5-perfil.jpg', ratio: 0.75 }
+    ]
   }
 ]);
 
