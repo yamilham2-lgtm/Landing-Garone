@@ -135,40 +135,40 @@ resultadosGallery.setCases([
   {
     label: 'Caso 1',
     angles: [
-      { label: 'Frente', src: 'assets/img/before-after/caso1-frente.jpg', ratio: 0.7565 },
+      { label: 'Perfil', src: 'assets/img/before-after/caso1-perfil.jpg', ratio: 0.7565 },
       { label: '3/4', src: 'assets/img/before-after/caso1-tres-cuartos.jpg', ratio: 0.7565 },
-      { label: 'Perfil', src: 'assets/img/before-after/caso1-perfil.jpg', ratio: 0.7565 }
+      { label: 'Frente', src: 'assets/img/before-after/caso1-frente.jpg', ratio: 0.7565 }
     ]
   },
   {
     label: 'Caso 2',
     angles: [
-      { label: 'Frente', src: 'assets/img/before-after/caso2-frente.jpg', ratio: 0.5 },
+      { label: 'Perfil', src: 'assets/img/before-after/caso2-perfil.jpg', ratio: 0.5 },
       { label: '3/4', src: 'assets/img/before-after/caso2-tres-cuartos.jpg', ratio: 0.5 },
-      { label: 'Perfil', src: 'assets/img/before-after/caso2-perfil.jpg', ratio: 0.5 }
+      { label: 'Frente', src: 'assets/img/before-after/caso2-frente.jpg', ratio: 0.5 }
     ]
   },
   {
     label: 'Caso 3',
     angles: [
-      { label: 'Frente', src: 'assets/img/before-after/caso3-frente.jpg', ratio: 0.5 },
+      { label: 'Perfil', src: 'assets/img/before-after/caso3-perfil.jpg', ratio: 0.5 },
       { label: '3/4', src: 'assets/img/before-after/caso3-tres-cuartos.jpg', ratio: 0.5 },
-      { label: 'Perfil', src: 'assets/img/before-after/caso3-perfil.jpg', ratio: 0.5 }
+      { label: 'Frente', src: 'assets/img/before-after/caso3-frente.jpg', ratio: 0.5 }
     ]
   },
   {
     label: 'Caso 4',
     angles: [
-      { label: 'Frente', src: 'assets/img/before-after/caso4-frente.jpg', ratio: 0.5 },
+      { label: 'Perfil', src: 'assets/img/before-after/caso4-perfil.jpg', ratio: 0.5 },
       { label: '3/4', src: 'assets/img/before-after/caso4-tres-cuartos.jpg', ratio: 0.5 },
-      { label: 'Perfil', src: 'assets/img/before-after/caso4-perfil.jpg', ratio: 0.5 }
+      { label: 'Frente', src: 'assets/img/before-after/caso4-frente.jpg', ratio: 0.5 }
     ]
   },
   {
     label: 'Caso 5',
     angles: [
-      { label: 'Frente', src: 'assets/img/before-after/caso5-frente.jpg', ratio: 0.75 },
-      { label: 'Perfil', src: 'assets/img/before-after/caso5-perfil.jpg', ratio: 0.75 }
+      { label: 'Perfil', src: 'assets/img/before-after/caso5-perfil.jpg', ratio: 0.75 },
+      { label: 'Frente', src: 'assets/img/before-after/caso5-frente.jpg', ratio: 0.75 }
     ]
   }
 ]);
