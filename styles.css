@@ -593,6 +593,7 @@ h2.center { text-align: center; }
   width: 128px;
   height: 128px;
   object-fit: cover;
+  object-position: center;
   border-radius: 4px;
   box-shadow: 0 0 0 1px var(--line);
 }
