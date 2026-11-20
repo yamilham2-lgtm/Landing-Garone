@@ -133,15 +133,15 @@ const resultadosGallery = createBeforeAfterSlider({
 });
 resultadosGallery.setCases([
   {
-    label: 'Caso 1',
+    label: 'Paciente Viral - Nariz Barbie',
     angles: [
-      { label: 'Frente', src: 'assets/img/before-after/caso1-nuevo-frente.jpg', ratio: 0.59375 },
+      { label: 'Perfil', src: 'assets/img/before-after/caso1-nuevo-perfil.jpg', ratio: 0.59375 },
       { label: '3/4', src: 'assets/img/before-after/caso1-nuevo-tres-cuartos.jpg', ratio: 0.59375 },
-      { label: 'Perfil', src: 'assets/img/before-after/caso1-nuevo-perfil.jpg', ratio: 0.59375 }
+      { label: 'Frente', src: 'assets/img/before-after/caso1-nuevo-frente.jpg', ratio: 0.59375 }
     ]
   },
   {
-    label: 'Caso 2',
+    label: 'Caso 1. Nariz masculina',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso1-perfil.jpg', ratio: 0.7565 },
       { label: '3/4', src: 'assets/img/before-after/caso1-tres-cuartos.jpg', ratio: 0.7565 },
@@ -149,7 +149,7 @@ resultadosGallery.setCases([
     ]
   },
   {
-    label: 'Caso 3',
+    label: 'Caso 2. Nariz Barbie',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso2-perfil.jpg', ratio: 0.5 },
       { label: '3/4', src: 'assets/img/before-after/caso2-tres-cuartos.jpg', ratio: 0.5 },
@@ -157,7 +157,7 @@ resultadosGallery.setCases([
     ]
   },
   {
-    label: 'Caso 4',
+    label: 'Caso 3. Nariz masculina',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso3-perfil.jpg', ratio: 0.5 },
       { label: '3/4', src: 'assets/img/before-after/caso3-tres-cuartos.jpg', ratio: 0.5 },
@@ -165,7 +165,7 @@ resultadosGallery.setCases([
     ]
   },
   {
-    label: 'Caso 5',
+    label: 'Caso 4. Nariz Barbie',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso4-perfil.jpg', ratio: 0.5 },
       { label: '3/4', src: 'assets/img/before-after/caso4-tres-cuartos.jpg', ratio: 0.5 },
@@ -173,7 +173,7 @@ resultadosGallery.setCases([
     ]
   },
   {
-    label: 'Caso 6',
+    label: 'Caso 5. Nariz Barbie natural',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso5-perfil.jpg', ratio: 0.75 },
       { label: 'Frente', src: 'assets/img/before-after/caso5-frente.jpg', ratio: 0.75 }
