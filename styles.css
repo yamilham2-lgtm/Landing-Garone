@@ -198,10 +198,13 @@ ul { list-style: none; }
 .hero-portrait {
   position: absolute;
   right: 6%;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 42%;
+  transform: translateY(-42%);
   width: 380px;
   z-index: 0;
+}
+@media (min-width: 981px) {
+  .hero .container { margin-left: 6vw; margin-right: 0; }
 }
 .portrait-frame {
   position: relative;
