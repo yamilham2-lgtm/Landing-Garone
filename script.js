@@ -141,7 +141,7 @@ resultadosGallery.setCases([
     ]
   },
   {
-    label: 'Caso 1. Nariz masculina',
+    label: 'Nariz masculina',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso1-perfil.jpg', ratio: 0.7565 },
       { label: '3/4', src: 'assets/img/before-after/caso1-tres-cuartos.jpg', ratio: 0.7565 },
@@ -149,7 +149,7 @@ resultadosGallery.setCases([
     ]
   },
   {
-    label: 'Caso 2. Nariz Barbie',
+    label: 'Nariz Barbie',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso2-perfil.jpg', ratio: 0.5 },
       { label: '3/4', src: 'assets/img/before-after/caso2-tres-cuartos.jpg', ratio: 0.5 },
@@ -157,7 +157,7 @@ resultadosGallery.setCases([
     ]
   },
   {
-    label: 'Caso 3. Nariz masculina',
+    label: 'Nariz masculina',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso3-perfil.jpg', ratio: 0.5 },
       { label: '3/4', src: 'assets/img/before-after/caso3-tres-cuartos.jpg', ratio: 0.5 },
@@ -165,7 +165,7 @@ resultadosGallery.setCases([
     ]
   },
   {
-    label: 'Caso 4. Nariz Barbie',
+    label: 'Nariz Barbie',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso4-perfil.jpg', ratio: 0.5 },
       { label: '3/4', src: 'assets/img/before-after/caso4-tres-cuartos.jpg', ratio: 0.5 },
@@ -173,10 +173,17 @@ resultadosGallery.setCases([
     ]
   },
   {
-    label: 'Caso 5. Nariz Barbie natural',
+    label: 'Nariz Barbie natural',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/caso5-perfil.jpg', ratio: 0.75 },
       { label: 'Frente', src: 'assets/img/before-after/caso5-frente.jpg', ratio: 0.75 }
+    ]
+  },
+  {
+    label: 'Nariz Natural',
+    angles: [
+      { label: 'Perfil', src: 'assets/img/before-after/natural-perfil.jpg', ratio: 0.7510 },
+      { label: 'Base', src: 'assets/img/before-after/natural-base.jpg', ratio: 0.7510 }
     ]
   }
 ]);
