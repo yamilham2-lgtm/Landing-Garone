@@ -183,7 +183,7 @@ resultadosGallery.setCases([
     label: 'Nariz Natural',
     angles: [
       { label: 'Perfil', src: 'assets/img/before-after/natural-perfil.jpg', ratio: 0.7510 },
-      { label: 'Base', src: 'assets/img/before-after/natural-base.jpg', ratio: 0.7510 }
+      { label: 'Frente', src: 'assets/img/before-after/natural-frente.jpg', ratio: 0.7510 }
     ]
   }
 ]);
