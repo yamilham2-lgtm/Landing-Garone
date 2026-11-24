@@ -185,6 +185,14 @@ resultadosGallery.setCases([
       { label: 'Perfil', src: 'assets/img/before-after/natural-perfil.jpg', ratio: 0.7510 },
       { label: 'Frente', src: 'assets/img/before-after/natural-frente.jpg', ratio: 0.7510 }
     ]
+  },
+  {
+    label: 'Nariz Natural',
+    angles: [
+      { label: 'Perfil', src: 'assets/img/before-after/caso6-perfil.jpg', ratio: 0.75 },
+      { label: '3/4', src: 'assets/img/before-after/caso6-tres-cuartos.jpg', ratio: 0.75 },
+      { label: 'Frente', src: 'assets/img/before-after/caso6-frente.jpg', ratio: 0.75 }
+    ]
   }
 ]);
 
