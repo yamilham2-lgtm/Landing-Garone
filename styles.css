@@ -197,7 +197,7 @@ ul { list-style: none; }
 
 .hero-portrait {
   position: absolute;
-  right: 6%;
+  right: 13%;
   top: 42%;
   transform: translateY(-42%);
   width: 380px;
